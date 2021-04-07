@@ -28,5 +28,31 @@
     "error.description.no_language": "Bot's language can be only **`%s`**",
     "error.description.no_color": "HEX-code is not provided, or HEX-code was incorrect.\n\n> Maybe you forget type `#` to the beginning of the command.\n> You can pick a color in this website: **[`www.color-hex.com`](https://www.color-hex.com)**",
     "error.description.cooldown": "This command has a cooldown.!\n> Try again in **%s**",
-    "error.description.stack_error": "An unexpected error has occurred! **I'm so sorry! >___<**\nI have already sent information about error to my developers. It may well be corrected soon."
+    "error.description.stack_error": "An unexpected error has occurred! **I'm so sorry! >___<**\nI have already sent information about error to my developers. It may well be corrected soon.",
+
+    "error.hug_cuddle.description.no_user" : "Please, specify a member. I need to know who must be hugged >w<",
+    "error.hug_cuddle.description.self_user" : "You can't hug yourself, user!~",
+    "hug_cuddle.author" : "**%s** huging **%s**",
+    "hug_cuddle.description" : "This is so cute and harmless! >w<",
+
+    "error.kiss.description.no_user" : "Please, specify a member. Please show who must be kissed >////<",
+    "error.kiss.description.self_user" : "You should get kisses from another people, user!~ >///<",
+    "kiss.title" : "**%s** kissing **%s**",
+    "kiss.description" : "Beatiful phenomenon! :>",
+
+    "error.pat.description.no_user" : "Please, specify a member. Please, who me who needs to pet a head :>",
+    "error.pat.description.self_user" : "Good, now take a cookie from the table, sniff it and put it back",
+    "pat.title" : "**%s** petting **%s**",
+    "pat.description" : "Someone behaved well today! >w<",
+
+    "error.poke.description.no_user" : "I... Don't like do things like this but... Who needs to be poked?",
+    "error.poke.description.self_user" : "This is a pimple in your face... Or it's a cookie crumb\nOh, you poking yourself. Okay, but specify someone but not yourself >w<",
+    "poke.title" : "**%s** poking **%s**",
+    "poke.description" : ">~< It is unpleasant...",
+
+    "error.slap.description.no_user" : "Fights is not good, please be gentle and show me your offender",
+    "error.slap.description.self_user" : "DON'T HARM YOURSELF PLEASE! You won't make the world better if you will harm yourself! >~<",
+    "slap.title" : "**%s** slaping **%s**",
+    "slap.description" : "Stop a fighting! You can't solve a problem by fists. Diplomacy is your best friend >____<"
+
 }
