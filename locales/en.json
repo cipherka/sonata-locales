@@ -27,6 +27,6 @@
     "error.description.no_prefix": "Prefix cannot contain more than 8 characters.",
     "error.description.no_language": "Bot's language can be only **`%s`**",
     "error.description.no_color": "HEX-code is not provided, or HEX-code was incorrect.\n\n> Maybe you forget type `#` to the beginning of the command.\n> You can pick a color in this website: **[`www.color-hex.com`](https://www.color-hex.com)**",
-    "error.description.cooldown": "This command has a cooldown.!\n> Try again in **%s** seconds.",
+    "error.description.cooldown": "This command has a cooldown.!\n> Try again in **%s**",
     "error.description.stack_error": "An unexpected error has occurred! **I'm so sorry! >___<**\nI have already sent information about error to my developers. It may well be corrected soon."
 }
