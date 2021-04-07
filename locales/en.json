@@ -41,7 +41,7 @@
 
     "error.hug_cuddle.description.no_user" : "Please, specify a member. I need to know who must be hugged >w<",
     "error.hug_cuddle.description.self_user" : "You can't hug yourself, user!~",
-    "hug_cuddle.author" : "%s is huging %s",
+    "hug_cuddle.author" : "%s is hugging %s",
     "hug_cuddle.description" : "This is so cute and harmless! >w<",
 
     "error.kiss.description.no_user" : "Please, specify a member. Please show who must be kissed >////<",
