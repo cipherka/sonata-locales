@@ -21,7 +21,7 @@
     "ping.title": "Ping?",
     "ping.description": ":ping_pong: **%s ms.**",
     "about.title": ":thinking: Who am I?",
-    "about.description": "Hello! My name is **Sonata**! I was created by [%s](%s) over a cup of tea and eight hours of hard work at workspace.\n\n> **What I can to do?**\nIt's a good question. I can't do anything yet. :+1:\nMy version: **%s**",
+    "about.description": "Hello! My name is **Sonata**! I was created by [%s](%s) over a cup of tea and eight hours of hard work at workspace.\n\n> **What I can to do?**\nIt's a good question. I can't do anything yet. :+1:\nMy version: **%s**\nHelp with translate on another language! **[`Click here for redirect to GitHub.`](https://github.com/vlfz/sonata-locales)**",
     "error.title": "%s An error has occurred!",
     "error.description.no_permissions": "Sorry, but you are not allowed to use this command because you don't have this permissions:\n> **%s**",
     "error.description.no_prefix": "Префикс может быть длиной **от 1 до 8 символов**!",
