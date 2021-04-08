@@ -2,7 +2,7 @@
     "help.title": ":robot: Command help",
     "help.description": ">>> Optional argument is **`[]`**\nRequired argument is **`<>`**\n\nFor more help with commands **type `%shelp [command]`**",
     "help.command": ":robot: Command «%s»",
-    "help.how_to": "An example of command using",
+    "help.how_to": "An example of command usage",
     "help.words.group": "Command category",
     "help.words.permission": "Required permissions",
     "help.no_permission": "Missing",
