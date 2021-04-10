@@ -33,8 +33,8 @@
     "help.sad.description": "Be sad >___<",
     "help.lick.description": "Lick a member! >///<",
     "help.tickle.description": "Tickle a member! >w<",
-    "help.ass.description": "Uuuhhhh... Don't ask anything about this command..",
-    "help.neko.description": "Mmm.. uuh.. You shouldn't use this..",
+    "help.ass.description": "Uuuhhhh... Don't ask anything about this command.",
+    "help.neko.description": "Mmm.. uuh.. You shouldn't use this.",
     "help.hentai.description": "You know what is this :^)",
     "help.hentai.args": "[gif]",
 
@@ -56,7 +56,7 @@
     "ping.description": ":ping_pong: **%s ms.**",
 
     "about.title": ":thinking: Who am I?",
-    "about.description": "Hello! My name is **Sonata**! I was created by [%s](%s) over a cup of tea and eight hours of hard work at workspace.\n\n> **What I can to do?**\nIt's a good question. I can't do anything yet. :+1:\nOk, it's just a joke. Just can watch my commands in `%shelp`.\n\nMy version: **%s**\nHelp with translate on another language! **[`Click here for redirect to GitHub.`](https://github.com/vlfz/sonata-locales)**\n\nSupport the development of bot! Only one person is creating me! **[`Click here to redirect to DonationAlerts.`](https://sqdsh.top/donate-da)**",
+    "about.description": "Hello! My name is **Sonata**! I was created by [%s](%s) over a cup of tea and eight hours of hard work at workspace.\n\n> **What can I do?**\nIt's a good question. I can't do anything yet. :+1:\nOk, it's just a joke. You can check out my commands in `%shelp`.\n\nMy version: **%s**\nHelp with translation on another language! **[`Click here for redirect to GitHub.`](https://github.com/vlfz/sonata-locales)**\n\nSupport the development of bot! Only one person is creating me! **[`Click here to redirect to DonationAlerts.`](https://sqdsh.top/donate-da)**",
     "about.words.support.dev": "Helped with code",
     "about.description.support.dev": "[neppedboy](https://github.com/neppedboy)",
     "about.words.support.translate": "Helped with translation",
