@@ -60,7 +60,7 @@
     "about.words.support.dev": "Помощь с кодом",
     "about.description.support.dev": "[neppedboy](https://github.com/neppedboy)",
     "about.words.support.translate": "Помощь с переводом",
-    "about.description.support.translate": "[neppedboy](https://github.com/neppedboy), [Mrsasha45op](https://github.com/mrsasha45op), [TheFerryn](https://github.com/TheFerryn), [w.st](https://github.com/Walkyst)",
+    "about.description.support.translate": "[neppedboy](https://github.com/neppedboy), [Mrsasha45op](https://github.com/mrsasha45op), [TheFerryn](https://github.com/TheFerryn), [w.st](https://github.com/Walkyst), [bit0r1n](https://bitor.in)",
 
     "error.title": "%s Вышла какая-то ошибочка!",
     "error.description.no_permissions": "Извините, но Вам недоступна эта команда, так как Вы не имеете следующих прав:\n> **%s**",
