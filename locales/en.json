@@ -31,6 +31,14 @@
     "help.slap.description": "DONT HARM SOMEONE! >___<",
     "help.reactions.args": "<@mention/ID>",
     "help.sad.description": "Be sad >___<",
+    "help.lick.description": "",
+    "help.lick.args": "",
+    "help.tickle.description": "",
+    "help.tickle.args": "",
+    "help.ass.description": "",
+    "help.neko.description": "",
+    "help.hentai.description": "",
+    "help.hentai.args": "",
 
     "help.play.description": "Play a music",
     "help.play.args": "<name/URL>",
@@ -38,13 +46,24 @@
     "help.stop.description": "Stop a music and clear a queue",
     "help.volume.description": "Change a volume of music",
     "help.volume.args": "<1/100%>",
-    
+    "help.lyrics.description": "",
+    "help.lyrics.args": "",
+    "error.lyrics.description.no_args": "",
+    "lyrics.title": "",
+    "lyrics.words.name": "",
+    "lyrics.words.artist": "",
+    "lyrics.words.album": "",
+
     "ping.title": "Ping?",
     "ping.description": ":ping_pong: **%s ms.**",
 
     "about.title": ":thinking: Who am I?",
-    "about.description": "Hello! My name is **Sonata**! I was created by [%s](%s) over a cup of tea and eight hours of hard work at workspace.\n\n> **What I can to do?**\nIt's a good question. I can't do anything yet. :+1:\nMy version: **%s**\nHelp with translate on another language! **[`Click here for redirect to GitHub.`](https://github.com/vlfz/sonata-locales)**",
-    
+    "about.description": "Hello! My name is **Sonata**! I was created by [%s](%s) over a cup of tea and eight hours of hard work at workspace.\n\n> **What I can to do?**\nIt's a good question. I can't do anything yet. :+1:\nOk, it's just a joke. Just can watch my commands in `%shelp`.\n\nMy version: **%s**\nHelp with translate on another language! **[`Click here for redirect to GitHub.`](https://github.com/vlfz/sonata-locales)**\n\nПоддержите разработку бота! Меня создаёт всего-лишь один человек! **[`Нажмите сюда для перехода на сайт DonationAlerts.`](https://sqdsh.top/donate-da)**",
+    "about.words.support.dev": "",
+    "about.description.support.dev": "[neppedboy](https://github.com/neppedboy)",
+    "about.words.support.translate": "",
+    "about.description.support.translate": "[neppedboy](https://github.com/neppedboy), [Mrsasha45op](https://github.com/mrsasha45op), [TheFerryn](https://github.com/TheFerryn)",
+
     "error.title": "%s An error has occurred!",
     "error.description.no_permissions": "Sorry, but you are not allowed to use this command because you don't have this permissions:\n> **%s**",
     "error.description.no_prefix": "Prefix cannot contain more than 8 characters.",
@@ -54,6 +73,7 @@
     "error.description.stack_error": "An unexpected error has occurred! **I'm so sorry! >___<**\nI have already sent information about error to my developers. It may well be corrected soon.",
     "error.description.stack_song_error": "An unexpected error has occurred during song playing! **I'm so sorry! >___<**\nI have already sent information about error to my developers. It may well be corrected soon.",
     "error.description.command_disabled": "The command is disabled. Maybe it is in the process of implementation, or the developers are fixing a bug.",
+    "error.description.no_nsfw_channel": "",
 
     "error.play.description.not_connected": "You must be in voice channel for command execution.",
     "error.play.description.not_playing": "There is no music. **o__O**",
@@ -94,5 +114,15 @@
     "slap.description" : "Stop fighting! You can't solve a problem by fists. Diplomacy is your best friend >____<",
 
     "sad.title" : "%s fells",
-    "sad.description" : ">~< Don't be sad, pleeeaaassse >o<"
+    "sad.description" : ">~< Don't be sad, pleeeaaassse >o<",
+
+    "error.lick.description.no_user": "",
+    "error.lick.description.self_user": "",
+    "lick.title": "",
+    "lick.description": "",
+
+    "error.tickle.description.no_user": "",
+    "error.tickle.description.self_user": "",
+    "tickle.title": "",
+    "tickle.description": ""
 }
