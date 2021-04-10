@@ -57,9 +57,9 @@
 
     "about.title": ":thinking: Who am I?",
     "about.description": "Hello! My name is **Sonata**! I was created by [%s](%s) over a cup of tea and eight hours of hard work at workspace.\n\n> **What I can to do?**\nIt's a good question. I can't do anything yet. :+1:\nOk, it's just a joke. Just can watch my commands in `%shelp`.\n\nMy version: **%s**\nHelp with translate on another language! **[`Click here for redirect to GitHub.`](https://github.com/vlfz/sonata-locales)**\n\nSupport us the bot developer! Create me just one person! **[`Click here for redirect to DonateAlerts`](https://sqdsh.top/donate-da)**",
-    "about.words.support.dev": "Помощь с кодом",
+    "about.words.support.dev": "Help with the code",
     "about.description.support.dev": "[neppedboy](https://github.com/neppedboy)",
-    "about.words.support.translate": "Помощь с переводом",
+    "about.words.support.translate": "Help with translation",
     "about.description.support.translate": "[neppedboy](https://github.com/neppedboy), [Mrsasha45op](https://github.com/mrsasha45op), [TheFerryn](https://github.com/TheFerryn), [w.st](https://github.com/Walkyst)",
 
     "error.title": "%s An error has occurred!",
