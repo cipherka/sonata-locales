@@ -60,7 +60,7 @@
     "about.words.support.dev": "Help with the code",
     "about.description.support.dev": "[neppedboy](https://github.com/neppedboy)",
     "about.words.support.translate": "Help with translation",
-    "about.description.support.translate": "[neppedboy](https://github.com/neppedboy), [Mrsasha45op](https://github.com/mrsasha45op), [TheFerryn](https://github.com/TheFerryn), [w.st](https://github.com/Walkyst), [Senpai](https://github.com/TheMisterSenpai)
+    "about.description.support.translate": "[neppedboy](https://github.com/neppedboy), [Mrsasha45op](https://github.com/mrsasha45op), [TheFerryn](https://github.com/TheFerryn), [w.st](https://github.com/Walkyst), [Senpai](https://github.com/TheMisterSenpai)",
 
     "error.title": "%s An error has occurred!",
     "error.description.no_permissions": "Sorry, but you are not allowed to use this command because you don't have this permissions:\n> **%s**",
