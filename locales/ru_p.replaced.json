@@ -1,4 +1,4 @@
-{
+{ // This language is replaced, sorry
     "help.title": ":robot: помощь по сраке",
     "help.description": ">>> ненужн фигн --  **`[]`**\n**`<>`** это тип надо ага\n\nчитай `%shelp [команда]` что б  ы да ну типо узнать чет аээаэа",
     "help.command": ":robot: cumанда «%s»",
