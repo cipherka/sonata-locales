@@ -86,6 +86,7 @@
     "error.title": "%s An error has occurred!",
     "error.description.spamMode": "On server **%s** enabled anti-invite mode. 👉 👈\nYou have **%s/%s warns**. Stop now, until it's not too late!",
     "error.description.spamMode.banned": "On server **%s** enabled anti-spam mode. Since you have **%s/%s warns**, i'm automatically gave you a ban on this server.\nIf you think that your activity was absolutely legal - fill out this form: https://sqdsh.top/bot_warn_appeal",
+    "error.description.spamMode.force_banned": "On server **%s** enabled anti-spam mode. You are blacklisted for a reason `%s`, so i'm automatically gave you a ban on this server.\nIf you think that your activity was absolutely legal - fill out this form: https://sqdsh.top/bot_warn_appeal",
     "error.description.reason.spamMode": "Spam on this or other servers",
     "error.description.anti_invite": "On this server send invite links is forbidden. 👉 👈",
     "error.description.anti_monitoring": "This server is protected against links to bad monitoring servers/bots. 👉 👈",
