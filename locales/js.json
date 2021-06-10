@@ -1,6 +1,6 @@
   {
     "help.title": "${commands.help.title}",
-    "help.description": ">>> **WARN!** Optional argument is **`[]`**\n**WARN!** Required argument is **`<>`**\n\n**WARN!** For more help with commands **type `%shelp [command]`**",
+    "help.description": ">>> **WARN!** For more help with commands **type `%shelp [command]`**",
     "help.command": "${commands.%s}",
     "help.how_to": "${this.example}",
     "help.words.group": "${this.category}",
@@ -26,7 +26,7 @@
     "help.anti-spam.description": "**WARN!** Anti-spam mode manage.",
     "help.mode.args": "${\"on\" || \"off\"}",
     "help.anti-spam-warns.description": "**WARN!** Set a default warn count for ban spammers while join to server.",
-    "help.anti-spam-warns.args": "${count}\n**WARN!** MIN 1%, MAX 100%"",
+    "help.anti-spam-warns.args": "${count}\n**WARN!** MIN 1%, MAX 100%",
     "help.security-info.description": "**WARN!** Server security information",
     "help.warns.description": "**WARN!** User warns count information",
     "help.warns.args": "${UserID}",
