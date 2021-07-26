@@ -2,7 +2,8 @@
     "help.title": ":robot: Command help",
     "help.description": ">>> For more help with commands **type `%shelp [command]`**",
     "help.command": ":robot: Command «%s»",
-    "help.how_to": "An example of command usage",
+    "help.how_to": "Current command usage",
+    "help.example": "An example of command usage",
     "help.words.group": "Command category",
     "help.words.permission": "Required permissions",
     "help.no_permission": "Missing",
@@ -107,6 +108,16 @@
     "about.description.support.dev": "[neppedboy](https://github.com/neppedboy), [Masero01](https://github.com/Masero01)",
     "about.words.support.translate": "Helped with translation",
     "about.description.support.translate": "[neppedboy](https://github.com/neppedboy), [Mrsasha45op](https://github.com/mrsasha45op), [TheFerryn](https://github.com/TheFerryn), [w.st](https://github.com/Walkyst), [bit0r1n](https://bitor.in), [swd](https://boticord.top/profile/675714186898309133)",
+
+    "help.demotivator.description": "Generate image-demotivator (command author: TheFerryn).",
+    "help.demotivator.args": "<upper text | lower text>",
+    "error.description.demotivator.no_text": "Specify at least some text for this command!",
+    "error.description.demotivator.text_limit": "The length of the upper text must not exceed the character limit (**34**).",
+
+    "help.gta.description": "Generate cut-scene image from GTA.",
+    "help.gta.args": "<text>",
+    "error.description.gta.no_text": "Specify at least some text for this command!",
+    "error.description.gta.text_limit": "The length of the upper text must not exceed the character limit (**45**).",
 
     "success.title": "%s Success!",
     "error.title": "%s An error has occurred!",
