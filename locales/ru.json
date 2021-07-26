@@ -3,6 +3,7 @@
     "help.description": ">>> Чтобы узнать подробности **пропишите `%shelp [команда]`**",
     "help.command": ":robot: Команда «%s»",
     "help.how_to": "Правильное использование команды",
+    "help.example": "Примеры использования команды",
     "help.words.group": "Категория команды",
     "help.words.permission": "Необходимые права",
     "help.no_permission": "Отсутствуют",
@@ -107,6 +108,16 @@
     "about.description.support.dev": "[neppedboy](https://github.com/neppedboy), [Masero01](https://github.com/Masero01)",
     "about.words.support.translate": "Помощь с переводом",
     "about.description.support.translate": "[neppedboy](https://github.com/neppedboy), [Mrsasha45op](https://github.com/mrsasha45op), [TheFerryn](https://github.com/TheFerryn), [w.st](https://github.com/Walkyst), [bit0r1n](https://bitor.in), [swd](https://boticord.top/profile/675714186898309133)",
+
+    "help.demotivator.description": "Сгенерировать картинку-демотиватор (автор команды: TheFerryn).",
+    "help.demotivator.args": "<текст сверху | текст снизу>",
+    "error.description.demotivator.no_text": "Укажите хоть какой-то текст для этой команды!",
+    "error.description.demotivator.text_limit": "Длина верхнего текста не должна превышать лимит в **34** символа.",
+
+    "help.gta.description": "Сгенерировать картинку кат-сцены из GTA.",
+    "help.gta.args": "<текст>",
+    "error.description.gta.no_text": "Укажите хоть какой-то текст для этой команды!",
+    "error.description.gta.text_limit": "Длина верхнего текста не должна превышать лимит в **45** символа.",
 
     "success.title": "%s Успешно!",
     "error.title": "%s Вышла какая-то ошибочка!",
