@@ -109,6 +109,15 @@
     "about.words.support.translate": "Помощь с переводом",
     "about.description.support.translate": "[neppedboy](https://github.com/neppedboy), [Mrsasha45op](https://github.com/mrsasha45op), [TheFerryn](https://github.com/TheFerryn), [w.st](https://github.com/Walkyst), [bit0r1n](https://bitor.in), [swd](https://boticord.top/profile/675714186898309133)",
 
+    "help.snapshot.description": "Сгенерировать снапшот страницы.",
+    "help.snapshot.args": "<url>",
+    "error.description.snapshot.no_url": "Вы не указали ссылку!",
+    "error.description.snapshot.incorrect_url": "Вы не указали корректную ссылку!",
+    "error.description.snapshot.cannot_send_attachment": "Я не могу присылать файлы в данный канал!",
+    "error.description.snapshot.chromium_starting_up": "Chromium на данный момент запускается. Пожалуйста, повторите запрос позже.",
+    "error.description.snapshot.internal_server_error": "Ошибка при запросе к ChromeChain. Пожалуйста, свяжитесь с разработчиками.",
+    "error.description.snapshot.undefined_error": "Недокументированная ошибка. Пожалуйста, свяжитесь с разработчиками.",
+
     "help.demotivator.description": "Сгенерировать картинку-демотиватор (автор команды: TheFerryn).",
     "help.demotivator.args": "<текст сверху | текст снизу>",
     "error.description.demotivator.no_text": "Укажите хоть какой-то текст для этой команды!",
