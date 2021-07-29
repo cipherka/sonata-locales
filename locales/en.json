@@ -109,6 +109,15 @@
     "about.words.support.translate": "Helped with translation",
     "about.description.support.translate": "[neppedboy](https://github.com/neppedboy), [Mrsasha45op](https://github.com/mrsasha45op), [TheFerryn](https://github.com/TheFerryn), [w.st](https://github.com/Walkyst), [bit0r1n](https://bitor.in), [swd](https://boticord.top/profile/675714186898309133)",
 
+    "help.snapshot.description": "Generate a site snapshot.",
+    "help.snapshot.args": "<url>",
+    "error.description.snapshot.no_url": "You didn't provide a URL!",
+    "error.description.snapshot.incorrect_url": "You didn't provide a valid URL!",
+    "error.description.snapshot.cannot_send_attachment": "I can't send attachments to this channel!",
+    "error.description.snapshot.chromium_starting_up": "Chromium is starting up. Please, make your request later.",
+    "error.description.snapshot.internal_server_error": "ChromeChain request error. Please, contact with developers.",
+    "error.description.snapshot.undefined_error": "Undefined error. Please, contact with developers.",
+
     "help.demotivator.description": "Generate image-demotivator (command author: TheFerryn).",
     "help.demotivator.args": "<upper text | lower text>",
     "error.description.demotivator.no_text": "Specify at least some text for this command!",
