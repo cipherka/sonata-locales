@@ -1,6 +1,6 @@
 {
     "help.title": ":robot: Command help",
-    "help.description": ">>> For more help with commands **type `%shelp [command]`**",
+    "help.description": ">>> For more help with commands **type `%shelp [command]`**\nAll bot commands are listed on the site: **[`https://bot.sqdsh.top/en-commands`](https://bot.sqdsh.top/en-commands)**",
     "help.command": ":robot: Command «%s»",
     "help.how_to": "Current command usage",
     "help.example": "An example of command usage",
@@ -14,7 +14,11 @@
     "time.duration.h": "h.",
     "time.duration.m": "min.",
     "time.duration.s": "sec.",
-    
+
+    "help.group.description": "Turn on/off provided command group",
+    "help.group.args": "<group name>",
+    "error.description.group.no_group": "You didn't provided a group for this action!\nAvailable command groups: `%s`",
+
     "help.about.description": ":thinking: Who am I?",
     "help.embed-color.description": "Change the color of Embed-messages.",
     "help.embed-color.args": "<HEX>",
@@ -104,6 +108,8 @@
 
     "about.title": ":thinking: Who am I?",
     "about.description": "Hello! My name is **Sonata**! I was created by [%s](%s) over a cup of tea and eight hours of hard work at workspace.\n\n> **What can I do?**\nIt's a good question. I can't do anything yet. :+1:\nOk, it's just a joke. You can check out my commands in `%shelp`.\n\nMy version: **%s**\nHelp with translation on another languages! **[`Click here for redirect to GitHub.`](https://github.com/vlfz/sonata-locales)**\n\nSupport the development of bot! Only one person is creating me! **[`Click here to redirect to DonationAlerts.`](https://sqdsh.top/donate-da)**",
+    "about.description.bonus.active": "\n:blue_heart: Thanks for supporting developers! Now this server has bonuses!",
+    "about.description.bonus.inactive": "\n:warning: After donating contact with developers in support server for bonus.",
     "about.words.support.dev": "Helped with code",
     "about.description.support.dev": "[neppedboy](https://github.com/neppedboy), [Masero01](https://github.com/Masero01)",
     "about.words.support.translate": "Helped with translation",
@@ -138,7 +144,7 @@
     "error.description.anti_monitoring": "This server is protected against links to bad monitoring servers/bots. 👉 👈",
     "error.description.no_permissions": "Sorry, but you are not allowed to use this command because you don't have permissions:\n> **%s**",
     "error.description.no_permissions_for_bot": "Sorry, but this command requires an additional permissions for the bot:\n> **%s**",
-    "error.description.no_bonus": "Sorry, but you are not allowed to use this command because you must donate to developers (this is a donator function).\n> More info: https://boticord.top/donate",
+    "error.description.no_bonus": "Sorry, but you are not allowed to use this command because you must donate to developers (this is a donator function).\n> More info: *`%sabout`*",
     "error.description.no_prefix": "Prefix cannot contain more than 8 characters.",
     "error.description.no_language": "Bot's language can be only **`%s`**",
     "error.description.badoo.no_set_channel": "Type of settings can be **`%s`**! only",
