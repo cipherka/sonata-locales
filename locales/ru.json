@@ -54,6 +54,8 @@
     "help.neko.description": "Ааа... эээм.. лучше тебе это не использовать.",
     "help.hentai.description": "ААААА.... хм.. в прочем как знаешь. >/////<",
     "help.hentai.args": "[gif]",
+    "help.userinfo.description" : "Получение информации об пользователе",
+    "help.userinfo.args" : "<@упоминание>"
 
     "security-info.title": "Настройки безопасности сервера",
     "security-info.anti-invite": "Анти-инвайт",
@@ -158,7 +160,7 @@
     "error.description.stack_song_error": "Произошла какая-то неизвестная ошибка при проигрывании трека. **Простите! >___<**\nЯ уже отправила разработчику текст неизвестной ошибки. В скором времени она, вполне возможно, будет исправлена.",
     "error.description.command_disabled": "Команда выключена. Возможно, она ещё не готова, либо в ней исправляют баг.",
     "error.description.no_nsfw_channel": "Эта команда может быть выполнена **только в NSFW-канале**!",
-
+    
     "error.play.description.not_connected": "Вы должны быть в голосовом канале для выполнения данного действия.",
     "error.play.description.not_playing": "Ничего не играет. **o__O**",
     "error.play.description.not_connected_to_current_channel": "Вы должны быть подключены к голосовому каналу, в котором я нахожусь.",
@@ -209,4 +211,24 @@
     "error.tickle.description.self_user": "Стооооп, зачем щекотать себя? Это же бред >___<",
     "tickle.title": "%s щекочет %s",
     "tickle.description": ">~< Это неприятненько... до такой степени, что он(-а) смеётся."
+
+    "error.userinfo.description.boticord_services_error" : "Ошибка отправки запроса на сервера BotiCord.\nСвяжитесь с разработчиком бота при возможности.\n\nhttps://discord.gg/BPbKgkYZms",
+    "error.userinfo.description.no_user" : "Не удалось найти информацию об пользователе. Попробуйте ещё раз. :no_entry:",
+    "userinfo.badges" : {
+            "text" : "Значки пользователя",
+            "employee" : "<:staff:873626785236004954> Сотрудник Discord",
+            "early_verified_bot_developer": "<:dev:873626786083246151> Верифицированный разработчик ботов", 
+            "certified_moderator" : "<:moder:873627515590148117> Сертифицированный модератор Discord-сервера",
+            "partner" : "<:partner:873626784225165402> Партнёр Discord" ,
+            "hypesquad_events" : "<:hse:873628041430069338> HypeSquad Events",
+            "hypesquad_bravery" : "<:hs3:873627518865915984> HypeSquad Bravery",
+            "hypesquad_balance" : "<:hs1:873627517670531103> HypeSquad Balance",
+            "hypesquad_brilliance" : "<:hs2:873627520111636550> HypeSquad Brilliance",
+            "bughunter_lvl1": "<:bug1:873626788234928201> Баг-хантер Discord"", 
+            "bughunter_lvl2" : "<:bug2:873626787274436638> Баг-хантер Discord",
+            "team_user" : "<:dev:873626786083246151> В команде Discord/бота",
+            "verified_bot" : "<:dev:873626786083246151> Верифицированный бот"
+    },
+    "userinfo.date" : "Дата регистрации"
+    "userinfo.requested" : "Запрос от: "
 }
