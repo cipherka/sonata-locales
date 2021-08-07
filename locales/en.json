@@ -28,6 +28,7 @@
     "help.lang.args": "<ru/en>",
     "help.badoo.description": "Private voice channels for lovers",
     "help.badoo.args": "on/off/status - enable/disable/check status of the channels**\nFor channels settings, instead of arguments above use arguments below:\n> **`parentID/boyChannel/girlChannel <ID of category/channel for boys/channel for girls>`",
+    "help.music-data.description": "About new current song message sending manage.",
     "help.anti-invite.description": "Anti-invite mode manage.",
     "help.anti-monitoring.description": "Anti-monitoring mode manage.",
     "help.anti-spam.description": "Anti-spam mode manage.",
