@@ -28,6 +28,7 @@
     "help.lang.args": "<ru/en>",
     "help.badoo.description": "Приватные голосовые каналы для влюблённых",
     "help.badoo.args": "on/off/status - вкл/выкл/статус работы каналов**\nДля настройки каналов, вместо аргументов выше используйте аргументы ниже:\n> **`parentID/boyChannel/girlChannel <ID категории/канала для парней/канала для девушек>`",
+    "help.music-data.description": "Управление отправляемым сообщением о новой текущей песни.",
     "help.anti-invite.description": "Управление режимом анти-инвайта.",
     "help.anti-monitoring.description": "Управление режимом анти-мониторинга.",
     "help.anti-spam.description": "Управление режимом анти-спама.",
