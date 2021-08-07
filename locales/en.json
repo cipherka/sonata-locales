@@ -54,7 +54,9 @@
     "help.neko.description": "Mmm.. uuh.. You shouldn't use this.",
     "help.hentai.description": "You know what is this :^)",
     "help.hentai.args": "[gif]",
-
+    "help.userinfo.description" : "Get info about the user",
+    "help.userinfo.args" : "<@mention>",
+    
     "security-info.title": "Server security settings",
     "security-info.anti-invite": "Anti-invite",
     "security-info.anti-monitoring": "Anti-monitoring",
@@ -210,3 +212,23 @@
     "tickle.title": "%s tickles %s",
     "tickle.description": ">~< That's strange... he(she) even laughs."
 }
+
+    "error.userinfo.description.boticord_services_error" : "Error of request to our servers.\nPlease contact with developers.\n\nhttps://discord.gg/BPbKgkYZms",
+    "error.userinfo.description.no_user" : "We cannot find an information about user. Try again. :no_entry:",
+    "userinfo.badges" : {
+            "text" : "User's badges",
+            "employee" : "<:staff:873626785236004954> Discord employee",
+            "early_verified_bot_developer": "<:dev:873626786083246151> Early Verified Bot developer", 
+            "certified_moderator" : "<:moder:873627515590148117> Discord Certified Moderator",
+            "partner" : "<:partner:873626784225165402> Partnered server owner" ,
+            "hypesquad_events" : "<:hse:873628041430069338> HypeSquad Events",
+            "hypesquad_bravery" : "<:hs3:873627518865915984> HypeSquad Bravery",
+            "hypesquad_balance" : "<:hs1:873627517670531103> HypeSquad Balance",
+            "hypesquad_brilliance" : "<:hs2:873627520111636550> HypeSquad Brilliance",
+            "bughunter_lvl1": "<:bug1:873626788234928201> Discord Bug hunter"", 
+            "bughunter_lvl2" : "<:bug2:873626787274436638> Discord Bug hunter",
+            "team_user" : "<:dev:873626786083246151> In team of Discord/bot",
+            "verified_bot" : "<:dev:873626786083246151> Verified bot"
+    },
+    "userinfo.date" : "Registration date"
+    "userinfo.requested" : "Requested by: "
