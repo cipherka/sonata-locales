@@ -228,7 +228,7 @@
     "userinfo.badges.early_supporter": "<:early_supporter:873627516902973540> Early Supporter (Nitro Subscriber)",
     "userinfo.badges.team_user": "<:dev:873626786083246151> In team of Discord/bot",
     "userinfo.badges.verified_bot": "<:dev:873626786083246151> Verified bot",
-    "userinfo.badges.no_badge": "%s Нет значков",
+    "userinfo.badges.no_badge": "%s No badges",
     "userinfo.date": "Registration date",
     "userinfo.requested": "Requested by"
 }
