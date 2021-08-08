@@ -212,7 +212,7 @@
     "tickle.title": "%s tickles %s",
     "tickle.description": ">~< That's strange... he(she) even laughs.",
     
-    "error.userinfo.description.boticord_services_error": "Error of request to our servers.\nPlease contact with developers.\n\nhttps://discord.gg/BPbKgkYZms",
+    "error.userinfo.description.boticord_services_error": ":x: Error of request to our servers.\nPlease contact with developers.\n\nhttps://discord.gg/BPbKgkYZms",
     "error.userinfo.description.no_user": "We cannot find an information about user. Try again. :no_entry:",
     "userinfo.badges.text": "User's badges",
     "userinfo.badges.employee": "<:staff:873626785236004954> Discord Staff",
