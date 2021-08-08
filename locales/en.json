@@ -214,7 +214,7 @@
     
     "error.userinfo.description.boticord_services_error": ":x: Error of request to our servers.\nPlease contact with developers.\n\nhttps://discord.gg/BPbKgkYZms",
     "error.userinfo.description.no_user": "We cannot find an information about user. Try again. :no_entry:",
-    "userinfo.badges.text": "User's badges",
+    "userinfo.badges.text": "User Badges",
     "userinfo.badges.employee": "<:staff:873626785236004954> Discord Staff",
     "userinfo.badges.early_verified_bot_developer": "<:dev:873626786083246151> Verified Bot developer", 
     "userinfo.badges.certified_moderator": "<:moder:873627515590148117> Discord Certified Moderator",
@@ -225,8 +225,10 @@
     "userinfo.badges.hypesquad_brilliance": "<:hs2:873627520111636550> HypeSquad Brilliance",
     "userinfo.badges.bughunter_lvl1": "<:bug1:873626788234928201> Discord Bug Hunter", 
     "userinfo.badges.bughunter_lvl2": "<:bug2:873626787274436638> Discord Bug Hunter",
+    "userinfo.badges.early_supporter": "<:early_supporter:873627516902973540> Ранее поддержавший (Nitro-подписчик)",
     "userinfo.badges.team_user": "<:dev:873626786083246151> In team of Discord/bot",
     "userinfo.badges.verified_bot": "<:dev:873626786083246151> Verified bot",
+    "userinfo.badges.no_badge": "%s Нет значков",
     "userinfo.date": "Registration date",
     "userinfo.requested": "Requested by"
 }
