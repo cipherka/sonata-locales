@@ -65,7 +65,7 @@
     "security-info.enabled": "Enabled",
     "security-info.disabled": "Disabled",
     "warns.title": "Checking a user for spam",
-    "warns.count_me": "Your warns count: **%s**\nAppeal your activity: **[sqdsh.top/bot_warn_appeal](https://sqdsh.top/bot_warn_appeal)**\n",
+    "warns.count_me": "Your warns count: **%s**\nAppeal your activity: **[bcord.cc/sa](https://bcord.cc/sa)**\n",
     "warns.count": "Warns count of user `%s`: **%s**",
     "warns.nika": "Warns count from Nika database dump: **%s**",
 
