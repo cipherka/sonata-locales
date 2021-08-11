@@ -54,6 +54,8 @@
     "help.neko.description": "Ааа... эээм.. лучше тебе это не использовать.",
     "help.hentai.description": "ААААА.... хм.. в прочем как знаешь. >/////<",
     "help.hentai.args": "[gif]",
+    "help.userinfo.description": "Получение информации об пользователе",
+    "help.userinfo.args": "<@упоминание/ID>",
 
     "security-info.title": "Настройки безопасности сервера",
     "security-info.anti-invite": "Анти-инвайт",
@@ -208,5 +210,25 @@
     "error.tickle.description.no_user": "Вы не указали участника. Ну, в принципе можешь пощекотать себя.",
     "error.tickle.description.self_user": "Стооооп, зачем щекотать себя? Это же бред >___<",
     "tickle.title": "%s щекочет %s",
-    "tickle.description": ">~< Это неприятненько... до такой степени, что он(-а) смеётся."
+    "tickle.description": ">~< Это неприятненько... до такой степени, что он(-а) смеётся.",
+    
+    "error.userinfo.description.boticord_services_error": ":x: Ошибка отправки запроса на сервера BotiCord.\nСвяжитесь с разработчиком бота при возможности.\n\nhttps://discord.gg/BPbKgkYZms",
+    "error.userinfo.description.no_user": "Не удалось получить информацию о пользователе. Попробуйте ещё раз. :no_entry:",
+    "userinfo.badges.text": "Значки пользователя",
+    "userinfo.badges.employee": "<:staff:873626785236004954> Сотрудник Discord",
+    "userinfo.badges.early_verified_bot_developer": "<:dev:873626786083246151> Верифицированный разработчик ботов", 
+    "userinfo.badges.certified_moderator": "<:moder:873627515590148117> Сертифицированный модератор Discord-сервера",
+    "userinfo.badges.partner": "<:partner:873626784225165402> Партнёр Discord",
+    "userinfo.badges.hypesquad_events": "<:hse:873628041430069338> HypeSquad Events",
+    "userinfo.badges.hypesquad_bravery": "<:hs3:873627518865915984> HypeSquad Bravery",
+    "userinfo.badges.hypesquad_balance": "<:hs1:873627517670531103> HypeSquad Balance",
+    "userinfo.badges.hypesquad_brilliance": "<:hs2:873627520111636550> HypeSquad Brilliance",
+    "userinfo.badges.bughunter_lvl1": "<:bug1:873626788234928201> Баг-хантер Discord", 
+    "userinfo.badges.bughunter_lvl2": "<:bug2:873626787274436638> Баг-хантер Discord",
+    "userinfo.badges.early_supporter": "<:early_supporter:873627516902973540> Ранее поддержавший (Nitro-подписчик)",
+    "userinfo.badges.team_user": "<:dev:873626786083246151> В команде Discord/бота",
+    "userinfo.badges.verified_bot": "<:dev:873626786083246151> Верифицированный бот",
+    "userinfo.badges.no_badge": "%s Нет значков",
+    "userinfo.date": "Дата регистрации",
+    "userinfo.requested": "Запрос от"
 }
