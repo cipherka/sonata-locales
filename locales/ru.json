@@ -65,7 +65,7 @@
     "security-info.enabled": "Включено",
     "security-info.disabled": "Выключено",
     "warns.title": "Проверка пользователя на спам-рассылку",
-    "warns.count_me": "Количество ваших предупреждений: **%s**\nСнять предупреждения: **[sqdsh.top/bot_warn_appeal](https://sqdsh.top/bot_warn_appeal)** [на английском]\n",
+    "warns.count_me": "Количество ваших предупреждений: **%s**\nСнять предупреждения: **[bcord.cc/sa](https://bcord.cc/sa)**\n",
     "warns.count": "Количество предупреждений пользователя `%s`: **%s**",
     "warns.nika": "Количество предупреждений из дампа базы данных Nika: **%s**",
 
