@@ -50,9 +50,7 @@
     "help.sad.description": "Be sad >___<",
     "help.lick.description": "Lick a member! >///<",
     "help.tickle.description": "Tickle a member! >w<",
-    "help.ass.description": "Uuuhhhh... Don't ask anything about this command.",
-    "help.neko.description": "Mmm.. uuh.. You shouldn't use this.",
-    "help.hentai.description": "You know what is this :^)",
+    "help.nsfw.description": "Uuuhhhh... This is a NSFW-command. Please don't use it.",
     "help.hentai.args": "[gif]",
     "help.userinfo.description": "Get info about the user",
     "help.userinfo.args": "<@mention>",
@@ -66,7 +64,7 @@
     "security-info.disabled": "Disabled",
     "warns.title": "Checking a user for spam",
     "warns.count_me": "Your warns count: **%s**\nAppeal your activity: **[bcord.cc/sa](https://bcord.cc/sa)**\n",
-    "warns.count": "Warns count of user `%s`: **%s**",
+    "warns.count": "Warns count of user: **%s**",
     "warns.nika": "Warns count from Nika database dump: **%s**",
 
     "help.play.description": "Play some music",
@@ -216,7 +214,7 @@
     "error.userinfo.description.no_user": "We cannot find an information about user. Try again. :no_entry:",
     "userinfo.badges.text": "User Badges",
     "userinfo.badges.employee": "<:staff:873626785236004954> Discord Staff",
-    "userinfo.badges.early_verified_bot_developer": "<:dev:873626786083246151> Verified Bot developer", 
+    "userinfo.badges.early_verified_bot_developer": "<:dev:873626786083246151> Verified Bot Developer", 
     "userinfo.badges.certified_moderator": "<:moder:873627515590148117> Discord Certified Moderator",
     "userinfo.badges.partner": "<:partner:873626784225165402> Discord Partner",
     "userinfo.badges.hypesquad_events": "<:hse:873628041430069338> HypeSquad Events",
@@ -230,5 +228,6 @@
     "userinfo.badges.verified_bot": "<:dev:873626786083246151> Verified bot",
     "userinfo.badges.no_badge": "%s No badges",
     "userinfo.date": "Registration date",
+    "userinfo.joined_at": "Join server date",
     "userinfo.requested": "Requested by"
 }
