@@ -50,9 +50,7 @@
     "help.sad.description": "Погрустить >___<",
     "help.lick.description": "Лизнуть участника! >///<",
     "help.tickle.description": "Пощекотать участника! >w<",
-    "help.ass.description": "Ууу.. Ну.. это.. немного странноватая команда...",
-    "help.neko.description": "Ааа... эээм.. лучше тебе это не использовать.",
-    "help.hentai.description": "ААААА.... хм.. в прочем как знаешь. >/////<",
+    "help.nsfw.description": "Уууххх... Эта команда для 18+. Пожалуйста, не используй её себе во вред.",
     "help.hentai.args": "[gif]",
     "help.userinfo.description": "Получение информации об пользователе",
     "help.userinfo.args": "<@упоминание/ID>",
@@ -66,7 +64,7 @@
     "security-info.disabled": "Выключено",
     "warns.title": "Проверка пользователя на спам-рассылку",
     "warns.count_me": "Количество ваших предупреждений: **%s**\nСнять предупреждения: **[bcord.cc/sa](https://bcord.cc/sa)**\n",
-    "warns.count": "Количество предупреждений пользователя `%s`: **%s**",
+    "warns.count": "Количество предупреждений пользователя: **%s**",
     "warns.nika": "Количество предупреждений из дампа базы данных Nika: **%s**",
 
     "help.play.description": "Проиграть музыку",
@@ -230,5 +228,6 @@
     "userinfo.badges.verified_bot": "<:dev:873626786083246151> Верифицированный бот",
     "userinfo.badges.no_badge": "%s Нет значков",
     "userinfo.date": "Дата регистрации",
+    "userinfo.joined_at": "Дата входа на сервер",
     "userinfo.requested": "Запрос от"
 }
