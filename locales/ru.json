@@ -67,6 +67,10 @@
     "warns.count": "Количество предупреждений пользователя: **%s**",
     "warns.nika": "Количество предупреждений из дампа базы данных Nika: **%s**",
 
+    "help.dj.description": "Включить/отключить режим DJ (вкл - музыкой может управлять только DJ)",
+    "help.dj.args": "<@упоминание/ID/имя роли> / off",
+    "error.dj.description.no_role": "Вы должны указать `@упоминание`, `ID` или `имя роли`!",
+    "error.dj.description.only_dj": "Только DJ с ролью %s может управлять музыкой!",
     "help.play.description": "Проиграть музыку",
     "help.play.args": "<название/URL>",
     "help.skip.description": "Пропустить музыку",
