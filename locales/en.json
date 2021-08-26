@@ -67,6 +67,10 @@
     "warns.count": "Warns count of user: **%s**",
     "warns.nika": "Warns count from Nika database dump: **%s**",
 
+    "help.dj.description": "Turn on/off DJ mode (on - only DJ can manage music)",
+    "help.dj.args": "<@ping/ID/role name> / off",
+    "error.dj.description.no_role": "You should provide `@ping`, `ID` or `role name`!",
+    "error.dj.description.only_dj": "Only DJ with role %s can manage music!",
     "help.play.description": "Play some music",
     "help.play.args": "<name/URL>",
     "help.skip.description": "Skip the current music",
