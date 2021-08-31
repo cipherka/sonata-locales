@@ -176,6 +176,15 @@
     "push.play.empty_queue": "ℹ️ Пустая очередь, выхожу из голосового канала! Увидимся! >w<",
     "push.play.quit-from-voice": "ℹ️ Все вышли из голосового канала, тогда я тоже выхожу! Увидимся! >w<",
 
+    "help.lovers.description": "Система отношений между пользователем",
+    "help.lovers.args": "invite <@упоминание/ID> / reactions / hide / divorce",
+    "error.lovers.description.no_user": "Вы не указали участника, с которым хотите быть парой.",
+    "error.lovers.description.already_in_pair": "Указанный участник уже с кем-то имеет отношения!",
+    "error.lovers.description.you_already_in_pair": "Вы уже с кем-то имеете отношения! Куда вам ещё?",
+
+    "error.reactions.description.love_block": "Эй, ты не можешь выполнить это действие с указанным пользователем, потому что он(-а) в отношениях!",
+    "error.reactions.description.you_love_block": "Эй, ты не можешь выполнить это действие с указанным пользователем, потому что ты в отношениях!",
+
     "error.hug_cuddle.description.no_user" : "Вы не указали участника. Покажите, кого нужно обнимать >w<",
     "error.hug_cuddle.description.self_user" : "Нельзя обниматься с самим собой, пользователь!~",
     "hug_cuddle.author" : "%s обнимается с %s",
@@ -233,5 +242,6 @@
     "userinfo.badges.no_badge": "%s Нет значков",
     "userinfo.date": "Дата регистрации",
     "userinfo.joined_at": "Дата входа на сервер",
+    "userinfo.lover": "В паре",
     "userinfo.requested": "Запрос от"
 }
