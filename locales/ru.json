@@ -107,7 +107,13 @@
     "error.effects.description.no_mode.karaoke": "Тип модификации для эффекта **Karaoke** может быть только **`%s`**!",
     "effects.apply.nightcore": "Эффект **Nightcore** активирован с модификацией **%s**. Через несколько секунд эффект применится на текущую очередь.",
     "effects.apply.karaoke": "Эффект **Karaoke** активирован с модификацией **%s**. Через несколько секунд эффект применится на текущую очередь.",
-    
+    "help.playlist.description": "Управление плей-листами пользователя",
+    "help.playlist.args": "create/list/load/delete <имя плей-листа>",
+    "error.playlist.description.no_name": "Нужно указать имя плей-листа!",
+    "error.playlist.description.no_playlist": "Плей-листа с таким именем не существует!",
+    "error.playlist.description.already_exists": "Плей-лист с таким именем уже существует!",
+    "playlist.empty": "У Вас нет плей-листов!",
+
     "ping.title": "Пинг?",
     "ping.description": ":ping_pong: **%s мс.**",
 
