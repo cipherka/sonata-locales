@@ -123,7 +123,7 @@
     "ping.description": ":ping_pong: **%s ms.**",
 
     "about.title": ":thinking: Who am I?",
-    "about.description": "Hello! My name is **Sonata**! I was created by [%s](%s) over a cup of tea and eight hours of hard work at workspace.\n\n> **What can I do?**\nIt's a good question. I can't do anything yet. :+1:\nOk, it's just a joke. You can check out my commands in `%shelp`.\n\nMy version: **%s**\nHelp with translation on another languages! **[`Click here for redirect to GitHub.`](https://github.com/vlfz/sonata-locales)**\n\nSupport the development of bot! Only one person is creating me! **[`Click here to redirect to DonationAlerts.`](https://sqdsh.top/donate-da)**",
+    "about.description": "Hello! My name is **Sonata**! I was created by [%s](%s) over a cup of tea and eight hours of hard work at workspace.\n\n> **What can I do?**\nIt's a good question. I can't do anything yet. :+1:\nOk, it's just a joke. You can check out my commands in `%shelp`.\n\nMy version: **%s**\nHelp with translation on another languages! **[`Click here for redirect to GitHub.`](https://github.com/vlfz/sonata-locales)**\n\nSupport the development of bot! Only one person is creating me! **[`Click here to redirect to YooMoney.`](https://sqdsh.top/donate)**",
     "about.description.bonus.active": "\n:blue_heart: Thanks for supporting developers! Now this server has bonuses!",
     "about.description.bonus.inactive": "\n:warning: After donating contact with developers in support server for bonus.",
     "about.words.support.dev": "Helped with code",
